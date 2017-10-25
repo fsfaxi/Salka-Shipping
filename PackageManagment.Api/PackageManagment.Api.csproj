@@ -19,7 +19,6 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0-msbuild3-final" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PackageManagment.Domain\PackageManagment.Domain.csproj" />
     <ProjectReference Include="..\PackageManagment.Infra\PackageManagment.Infra.csproj" />
   </ItemGroup>
 

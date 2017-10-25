@@ -1,7 +1,7 @@
 ﻿
 using System;
 using Microsoft.EntityFrameworkCore;
-using PackageManagment.Domain.Models;
+using PM.Domain.Models;
 
 namespace PackageManagment.Infra
 {
