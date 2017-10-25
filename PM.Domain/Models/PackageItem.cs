@@ -9,7 +9,7 @@ namespace PM.Domain.Models
     public class PackageItem 
     {
         [Key]
-        private int pkg_id { set; get; }
+        public int Id { set; get; }
 
 
         //public string pkg_location { set; get; }
